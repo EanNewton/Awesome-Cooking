@@ -18,186 +18,186 @@ My favorite recipes and resources.
 
 ## Baking & Sweets
 * American Pizza Dough.csv
-* American Style Pizza Dough.md
-* Brownies.md
-* Chewy Chocolate Chip Cookies.md
+* American Style Pizza Dough
+* Brownies
+* Chewy Chocolate Chip Cookies
 * Chicago Style Pizza Dough.csv
-* Chicago Style Pizza Dough.md
-* Cinnamon Buns.md
-* Classic Buttermilk Waffles.md
-* Hot Buttered Pretzels.md
-* New York Style Pizza Dough.md
+* Chicago Style Pizza Dough
+* Cinnamon Buns
+* Classic Buttermilk Waffles
+* Hot Buttered Pretzels
+* New York Style Pizza Dough
 * NY Pizza Dough.csv
-* Ohana Bread Pudding with Banana Fosters Sauce.md
-* Orange-Rum Challah French Toast.md
-* Perfect Ice Cream Base.md
-* Sausage Cinnamon Buns.md
+* Ohana Bread Pudding with Banana Fosters Sauce
+* Orange-Rum Challah French Toast
+* Perfect Ice Cream Base
+* Sausage Cinnamon Buns
 
 ## Drinks
-* Aged Eggnog.md
-* Chick-Fil-A Frozen Lemonade.md
-* Classic Lemonade.md
-* Macerated Lemonade.md
-* Mineral Water.md
+* Aged Eggnog
+* Chick-Fil-A Frozen Lemonade
+* Classic Lemonade
+* Macerated Lemonade
+* Mineral Water
 
 ## Eggs
-* Shakshuka.md
+* Shakshuka
 
 ## Ferments, Pickles, Brines, & Relishes
 ### Brines
-* Apple Brine.md
+* Apple Brine
 
 ### Pickles
-* Assorted Tsukemono.md
-* Lunu Dehi Sambola.md
-* Oorukai.md
-* Sanbaizu Pickled Vegetables.md
-* Shiozuke Tsukemono.md
-* Si Chuan Pao Cai.md
+* Assorted Tsukemono
+* Lunu Dehi Sambola
+* Oorukai
+* Sanbaizu Pickled Vegetables
+* Shiozuke Tsukemono
+* Si Chuan Pao Cai
 
 ### Relishes
-* Carrot Sambol.md
-* Katta Sambol.md
-* Linu Sambol.md
-* Pol Sambol.md
-* Seeni Sambol.md
+* Carrot Sambol
+* Katta Sambol
+* Linu Sambol
+* Pol Sambol
+* Seeni Sambol
 
 ## Fruits
-* Fraises au Jus Glacé.md
+* Fraises au Jus Glacé
 
 ## Meat
-* Bo Tai Chanh.md
-* Cassoulet.md
-* Chick-Fil-A Fried Chicken Sandwich.md
-* Jiang Rou.md
-* Lemon Basil Roast Chicken.md
-* Maple Candied Bacon.md
-* Meatloaf.md
-* Shepherd’s Pie.md
+* Bo Tai Chanh
+* Cassoulet
+* Chick-Fil-A Fried Chicken Sandwich
+* Jiang Rou
+* Lemon Basil Roast Chicken
+* Maple Candied Bacon
+* Meatloaf
+* Shepherd’s Pie
 
 ## Resources
-* Broths, Soups, & Noodles.md
-* Chocolate Tempering.md
-* Fruit Pectin.md
-* Guai Wei Ji Si.md
-* Notes on Pizza Sauce.md
+* Broths, Soups, & Noodles
+* Chocolate Tempering
+* Fruit Pectin
+* Guai Wei Ji Si
+* Notes on Pizza Sauce
 * The Boutique Black Rice Vinegar That's Aged Like Balsamic _ Saveur (11_5_2022 1_51_11 PM).html
 * The Serious Eats Field Guide to Asian Greens (11_2_2022 2_29_48 AM).html
 
 ## Rice & Pasta
-* Butternut Squash and Amaretto Ravioli Filling.md
-* Chinese Take-out Fried Rice.md
-* Cilantro & Lime Rice.md
-* Fresh Pasta Dough.md
-* Fresh Ricotta with Chestnut Honey and Basil Ravioli Filling.md
-* Mac n’ Cheese.md
-* Ravioli al Uovo.md
-* Saffron Rice Pilaf.md
-* Saffron Rice.md
-* Sweet Potato Gnocchi with Kale, Sage, and Balsamic Brown Butter.md
+* Butternut Squash and Amaretto Ravioli Filling
+* Chinese Take-out Fried Rice
+* Cilantro & Lime Rice
+* Fresh Pasta Dough
+* Fresh Ricotta with Chestnut Honey and Basil Ravioli Filling
+* Mac n’ Cheese
+* Ravioli al Uovo
+* Saffron Rice Pilaf
+* Saffron Rice
+* Sweet Potato Gnocchi with Kale, Sage, and Balsamic Brown Butter
 
 ## Salads
-* Cranberry-Avocado Salad with White Balsamic Vinaigrette.md
-* Gotu Kola Sambol.md
-* Provencal Salad.md
+* Cranberry-Avocado Salad with White Balsamic Vinaigrette
+* Gotu Kola Sambol
+* Provencal Salad
 
 ## Sauces, Garnishes, et al
 ### Condiments
-* Bagna Cauda.md
-* Guacamole.md
-* Salsa Papalotes.md
-* Salsa Roja.md
-* Salsa Verde.md
-* San Marzano Ketchup.md
-* Umami Ketchup.md
+* Bagna Cauda
+* Guacamole
+* Salsa Papalotes
+* Salsa Roja
+* Salsa Verde
+* San Marzano Ketchup
+* Umami Ketchup
 
 ### Garnishes
-* Beurre Maître d'Hôtel.md
-* Candied Onions.md
-* Carotene Butter.md
-* Fresh Ricotta.md
-* Miso Butterscotch.md
-* Mostarda di Cremona.md
-* Orange Lavender Honey Butter.md
+* Beurre Maître d'Hôtel
+* Candied Onions
+* Carotene Butter
+* Fresh Ricotta
+* Miso Butterscotch
+* Mostarda di Cremona
+* Orange Lavender Honey Butter
 
 ### Sauces
-* Apple Calvados Demi Glace.md
-* Aunt Jemima Pancake Syrup.md
-* Black Honey.md
-* Blackberry and Thyme Syrup.md
-* Bolognese Sauce.md
-* Cuban Mojo Marinade.md
-* Cuban Mojo Sauce.md
-* Demi Glace.md
-* Fu Zhi Jian You.md
-* Mole Blanco.md
-* Mole.md
-* Mushroom-Scallion Oil.md
-* New York Style Pizza Sauce.md
-* Quick Hollandaise.md
-* Red Mojo Sauce.md
-* Roasted Garlic Oil.md
-* Rouille.md
-* San Marzano Marinara Sauce.md
-* Tuong Ot Xa.md
+* Apple Calvados Demi Glace
+* Aunt Jemima Pancake Syrup
+* Black Honey
+* Blackberry and Thyme Syrup
+* Bolognese Sauce
+* Cuban Mojo Marinade
+* Cuban Mojo Sauce
+* Demi Glace
+* Fu Zhi Jian You
+* Mole Blanco
+* Mole
+* Mushroom-Scallion Oil
+* New York Style Pizza Sauce
+* Quick Hollandaise
+* Red Mojo Sauce
+* Roasted Garlic Oil
+* Rouille
+* San Marzano Marinara Sauce
+* Tuong Ot Xa
 
 ### Spice Mixes
-* Brown Butter Solids.md
-* Garam Masala.md
-* Italian Seasoning.md
-* Meathead’s Memphis BBQ Dust.md
+* Brown Butter Solids
+* Garam Masala
+* Italian Seasoning
+* Meathead’s Memphis BBQ Dust
 
 ## Snacks
-* Almendras al Pimenton.md
-* Candied Spiced Almonds.md
-* Furikake Kettle Corn.md
-* Maple-Bacon Almonds.md
+* Almendras al Pimenton
+* Candied Spiced Almonds
+* Furikake Kettle Corn
+* Maple-Bacon Almonds
 
 ## Soups
-* Bouillabaisse.md
-* Bún Bò Huế.md
-* Cioppino.md
-* Coconut & Lemongrass Soup.md
-* Consommé à la Brunoise.md
-* Cream of Chicken Soup with Parsley & Chives.md
-* Le Cellier Cheddar Cheese Soup.md
-* Salmon, Celeriac, & Potato Chowder.md
+* Bouillabaisse
+* Bún Bò Huế
+* Cioppino
+* Coconut & Lemongrass Soup
+* Consommé à la Brunoise
+* Cream of Chicken Soup with Parsley & Chives
+* Le Cellier Cheddar Cheese Soup
+* Salmon, Celeriac, & Potato Chowder
 
 ### Stocks, Broths, and Bouquets
-* Bouquet Garni.md
-* Chicken Bone Broth.md
-* Chicken Foot Stock.md
-* Consommé.md
-* Dashi.md
-* Fish Stock.md
-* Green Broth.md
-* How to Prepare Chicken Feet.md
-* Long-Simmered Roasted Beef Bone Broth.md
-* Long-Simmered Roasted Pork Bone Broth.md
-* Mirepoix.md
-* Roasted Mushroom Broth.md
-* Roasted Turkey Bone Broth.md
-* Sea Vegetable Broth.md
-* Shellfish Stock.md
-* Whole Chicken Broth.md
+* Bouquet Garni
+* Chicken Bone Broth
+* Chicken Foot Stock
+* Consommé
+* Dashi
+* Fish Stock
+* Green Broth
+* How to Prepare Chicken Feet
+* Long-Simmered Roasted Beef Bone Broth
+* Long-Simmered Roasted Pork Bone Broth
+* Mirepoix
+* Roasted Mushroom Broth
+* Roasted Turkey Bone Broth
+* Sea Vegetable Broth
+* Shellfish Stock
+* Whole Chicken Broth
 
 ## Vegetables
-* Broccoli with Citrus and Garlic Oil.md
-* Carciofi alla Giudia.md
-* Chana Masala.md
-* Chanterelles on Toast.md
-* Chanterelles.md
-* Chile-Eggplant Sofrito.md
-* Elotes Esquites.md
-* Glazed Winter Vegetables.md
-* Kao Port Kluk.md
-* Kuromame.md
-* Olive all’Ascolana.md
-* Patatas Bravas.md
-* Pommes Aligot.md
-* Roast Potatoes.md
-* Sauteed Chanterelles with Bacon.md
-* Schmaltz Mashed Potatoes & Gravy.md
-* Spiced Cider Brussel Sprouts.md
-* Vegetable Fat.md
-* Winter Squash Agrodolce.md
+* Broccoli with Citrus and Garlic Oil
+* Carciofi alla Giudia
+* Chana Masala
+* Chanterelles on Toast
+* Chanterelles
+* Chile-Eggplant Sofrito
+* Elotes Esquites
+* Glazed Winter Vegetables
+* Kao Port Kluk
+* Kuromame
+* Olive all’Ascolana
+* Patatas Bravas
+* Pommes Aligot
+* Roast Potatoes
+* Sauteed Chanterelles with Bacon
+* Schmaltz Mashed Potatoes & Gravy
+* Spiced Cider Brussel Sprouts
+* Vegetable Fat
+* Winter Squash Agrodolce
