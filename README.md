@@ -1,9 +1,32 @@
 # Awesome Cooking
 
-WIP / Placeholder
 
-My favorite recipes and resources.
+## My favorite recipes and resources.
 
+---
+
+# About
+
+If this is your first time cooking from these recipes I would suggest the following menu, feel free to mix it up though: 
+
+* Lemon Basil Roast Chicken
+* Roast Potatoes
+* Cranberry-Avocado Salad with White Balsamic Vinaigrette
+* Chewy Chocolate Chip Cookies
+
+The above recipes are more or less foolproof, don’t require any unusual ingredients / equipment or techniques, and are general crowd-pleasers for the American palate. Make sure to use the leftover chicken frame to make a broth or soup.
+
+I have tried to include a diverse mix of regions, complexities, techniques, and flavors. Many of these recipes can feed into each other, for example you can make the Lemon Basil Roast Chicken one day, turn it into Whole Chicken Broth overnight, and then make the Coconut and Lemongrass Soup from the leftover meat and broth the next day; or throw the meat into a salad, or perhaps make sandwiches with the Hot Buttered Pretzels. Some of the dishes and their ingredients may sound strange but don’t be afraid to experiment with them, be brave. Likewise, if an ingredient is unavailable, not available in a good quality, or prohibitively expensive then get creative or try a different recipe. 
+
+Always use quality ingredients, work at a comfortable pace, and clean as you go. Everything presented here is aimed at a few goals: connecting people with food and its origin, that being the earth and those who produce goods from it; connecting people with each other, food should be shared and enjoyed, life is short so eat well, eat plenty, and smile more, perhaps with a drink in hand to share a toast; and of course, how does it taste?
+
+---
+
+If you have any feedback (positive or negative), comments, concerns, pictures of your results, suggestions, requests, or just want to say hello: feel free to send me a message or open an issue / PR.
+
+---
+
+# Table of Contents
 
 ---
 
@@ -14,7 +37,7 @@ My favorite recipes and resources.
 * [On Vegetables](https://github.com/EanNewton/on-vegetables)
 
 
-# Recipes
+# My Favorite Recipes
 
 ## Baking & Sweets
 * American Pizza Dough.csv

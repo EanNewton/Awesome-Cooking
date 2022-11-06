@@ -5,6 +5,8 @@
 * replace --
 * replace *.5 etc
 * replace chile chili
+* add links to readme
+* add xref links
 
 # Recipes / books to add
 * bravetart 
