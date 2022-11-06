@@ -30,14 +30,16 @@
     * Brassicas a la Catalan
         * Pine Nut Pudding
         * Red Pepper Tears
+    * Cider or beer
 8. Dessert:
     * Strawberry Pavlova, Yogurt, & Black Pepper
-    * Black Orange Cocktail
-        * Orange and Coffee Liqueur
+    * London Fog Tea
 9. Mignardise:
     * Chewy Citrus Caramels
         * Miso Butterscotch #2
         * Browned Butter Solids
+    * Black Orange Cocktail
+        * Orange and Coffee Liqueur
 
 ---
 
@@ -405,31 +407,16 @@
 ##### to serve
 1. To serve, slice through the meringues horizontally, like splitting a burger bun. Place a bottom piece on each plate and spoon the yogurt cream onto it. Add macerated strawberries, then drizzle some of the juices over them. Place the top of the meringue over the strawberries. With a fine-mesh sieve, sift the dehydrated strawberry powder over the Pavlova.
 
-### Black Orange Cocktail
-
-* 1 shot Orange & Coffee Liqueur
-* 1 shot espresso
-* 2 shots vodka
-* Twist of orange
-
-Shake over ice.
-
-### Orange and Coffee Liqueur
+### London Fog Tea
 
 #### Ingredients
-
-* 2 Seville oranges
-* 44 (6 g / 1 heaped tbsp) medium roast coffee beans
-* 44 tsp (250 g) sugar 
-* 1 litre / 4 cups golden rum
-
----
+* 1 cup Earl Grey tea
+* 1 cup steamed whole milk
+* 0.5 to 1 oz vanilla simple syrup
+* White chocolate sauce, to drizzle
 
 #### Steps
-
-1.  Wash and dry the oranges thoroughly. Cut slits evenly over the orange skin and push the coffee beans in. Put in a large preserving jar and cover with the sugar. Pour over the rum and seal.
-2.  Leave to steep for 44 days (6 weeks) then strain into clean, sterilized bottles. Do not leave this for longer as I did the first time I made it — the bitter notes will become too dominant.
-
+1. Pour the vanilla syrup, tea, and steamed milk. Drizzle with chocolate sauce.
 
 ---
 
@@ -495,3 +482,30 @@ Shake over ice.
 1.  In a pot, bring butter to a boil over medium-high heat.
 2.  Whisking continuously, add dry milk. Cook until golden brown. The color will continue to darken.
 3.  Place a strainer over a jar to separate the liquid from the solids. Reserve brown butter liquids for another use. Allow solids to cool on a paper towel lined sheet, store in an airtight container with a desiccant pack.
+
+---
+
+### Black Orange Cocktail
+
+* 1 shot Orange & Coffee Liqueur
+* 1 shot espresso
+* 2 shots vodka
+* Twist of orange
+
+Shake over ice.
+
+### Orange and Coffee Liqueur
+
+#### Ingredients
+
+* 2 Seville oranges
+* 44 (6 g / 1 heaped tbsp) medium roast coffee beans
+* 44 tsp (250 g) sugar 
+* 1 litre / 4 cups golden rum
+
+---
+
+#### Steps
+
+1.  Wash and dry the oranges thoroughly. Cut slits evenly over the orange skin and push the coffee beans in. Put in a large preserving jar and cover with the sugar. Pour over the rum and seal.
+2.  Leave to steep for 44 days (6 weeks) then strain into clean, sterilized bottles. Do not leave this for longer as I did the first time I made it — the bitter notes will become too dominant.
