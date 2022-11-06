@@ -6,6 +6,7 @@
 * replace *.5 etc
 * replace chile chili
 * add links to readme
+* find appropriate image hosting
 * add xref links
     * tree /a /f 
     * copy paste
