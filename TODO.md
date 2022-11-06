@@ -7,13 +7,21 @@
 * replace chile chili
 * add links to readme
 * add xref links
+    * tree /a /f 
+    * copy paste
+    * regex replace
 
 # Recipes / books to add
+## Started
+* the cocktail book
+* feast
+
+## To start
+* the sweet life
 * bravetart 
     * choc chip
 * land of plenty
-* cocktails
-* the sweet life
+* discord cooking recipe catalog
 
 
 # Recipes I'm looking for

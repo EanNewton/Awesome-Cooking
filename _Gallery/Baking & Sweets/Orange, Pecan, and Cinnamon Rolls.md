@@ -1,0 +1,3 @@
+* I made the orange, pecan, and cinnamon rolls from the book you transcribed except that I changed a few things. 1. I only used AP flour 2. I didn't have any pecans so I simply omitted them 3. I omitted the alcohol as well 4. Instead of chopped candied peel I used some leftover chopped candied orange slices I mentioned the other day 5. I topped them with an orange nutmeg cream cheese icing. These. were. phenomenal!! My dad said and I quote "These are the best cinnamon rolls I've ever had." I'm definitely making these with pecans next time thank you sm! This is the easiest cinnamon roll dough I've ever worked with as well  
+  
+-- jem Nov 06 2022
