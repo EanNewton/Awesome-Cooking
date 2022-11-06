@@ -12,6 +12,8 @@
 * bravetart 
     * choc chip
 * land of plenty
+* cocktails
+* the sweet life
 
 
 # Recipes I'm looking for
