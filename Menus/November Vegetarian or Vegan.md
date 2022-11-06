@@ -2,43 +2,83 @@
 
 ---
 
+# Table of Contents
+- [November: Vegetarian or Vegan](#november-vegetarian-or-vegan)
+  - [Outline](#outline)
+  - [Hors d'Oeuvre](#hors-doeuvre)
+    - [Endive, Pear, & Truffle Honey Tartine](#endive-pear--truffle-honey-tartine)
+    - [Pumpernickle Bread](#pumpernickle-bread)
+  - [Soup](#soup)
+    - [Creamed Corn, Fig Jam, & Dried Vanilla Pod](#creamed-corn-fig-jam--dried-vanilla-pod)
+    - [Corn Cob Stock](#corn-cob-stock)
+    - [Fig Jam](#fig-jam)
+    - [Roasted Red Peppers & Tears](#roasted-red-peppers--tears)
+  - [Appetizer](#appetizer)
+    - [Daikon Braised in Orange Juice](#daikon-braised-in-orange-juice)
+    - [Limoncello Gin Collins Cocktail](#limoncello-gin-collins-cocktail)
+    - [Limoncello](#limoncello)
+  - [Salad](#salad)
+    - [Cranberry-Avocado Salad with White Balsamic Vinaigrette](#cranberry-avocado-salad-with-white-balsamic-vinaigrette)
+  - [Main](#main)
+    - [Peas, White Chocolate, & Macadamia Nuts](#peas-white-chocolate--macadamia-nuts)
+    - [Pea Shell Stock](#pea-shell-stock)
+  - [Palate Cleanser](#palate-cleanser)
+    - [Gin and Bitter Grapefruit Granita](#gin-and-bitter-grapefruit-granita)
+  - [Second Main](#second-main)
+    - [Brassicas a la Catalan](#brassicas-a-la-catalan)
+    - [Pine Nut Pudding](#pine-nut-pudding)
+  - [Dessert](#dessert)
+    - [Strawberry Pavlova, Yogurt, & Black Pepper](#strawberry-pavlova-yogurt--black-pepper)
+    - [London Fog Tea](#london-fog-tea)
+  - [Mignardise](#mignardise)
+    - [Chewy Citrus Caramels](#chewy-citrus-caramels)
+    - [Miso Butterscotch](#miso-butterscotch)
+    - [Brown Butter Solids](#brown-butter-solids)
+    - [Black Orange Cocktail](#black-orange-cocktail)
+    - [Orange and Coffee Liqueur](#orange-and-coffee-liqueur)
+
+---
+
 ## Outline
 
 1. Hors d'Oeuvre: 
     * Endive, Pear, & Truffle Honey Tartine
-    * Pumpernickle Bread
+        * Pumpernickle Bread
+    * Drink: Water
 2. Soup: 
     * Creamed Corn, Fig Jam, & Dried Vanilla Pod
         * Corn Cob Stock
         * Fig Jam
         * Roasted Red Peppers
+    * Drink: Chocolate Monkey Tea
 3. Appetizer:
     * Daikon Braised in Orange Juice
-    * Limoncello Gin Collins Cocktail
+    * Drink: Limoncello Gin Collins Cocktail
         * Limoncello
 4. Salad:
     * Cranberry-Avocado Salad & White Balsamic Vinaigrette
         * Candied Spiced Almonds
-    * Pomegranate Green Tea
+    * Drink: Pomegranate Green Tea
 5. Main:
     * Peas, White Chocolate, & Macadamia Nuts
         * Pea Shell Stock
-    * Green Tea
+    * Drink: Bancha Green Tea
 6. Palate Cleanser:
     * Gin and Bitter Grapefruit Granita
+    * Drink: Gyokuro Green Tea
 7. Second Main:
     * Brassicas a la Catalan
         * Pine Nut Pudding
         * Red Pepper Tears
-    * Cider or beer
+    * Drink: Cider or beer
 8. Dessert:
     * Strawberry Pavlova, Yogurt, & Black Pepper
-    * London Fog Tea
+    * Drink: London Fog Tea
 9. Mignardise:
     * Chewy Citrus Caramels
         * Miso Butterscotch #2
         * Browned Butter Solids
-    * Black Orange Cocktail
+    * Drink: Black Orange Cocktail
         * Orange and Coffee Liqueur
 
 ---
@@ -232,11 +272,11 @@
 
 ##### For the salad:
 
-* 12 ounces baby spinach arugula, field greens
+* 12 ounces baby spinach, arugula, field greens
 * 1 small bunch cilantro washed and dried, leaves removed whole from stems
 * 2 medium avocados peeled and halved
 * ¾ cup dried cranberries
-* ¾ cup Candied Spiced Almonds (see: )
+* ¾ cup Candied Spiced Almonds
 
 ---
 
@@ -244,6 +284,7 @@
 
 1.  For the dressing, combine all ingredients in a pint sized glass jar and shake well to dissolve sugar.
 2.  For the salad, place greens and cilantro leaves in a large bowl. Add avocado and dried cranberries and about 1/4 cup of the dressing and toss gently. Scatter candied almonds over salad and sprinkle lightly with sea salt and freshly ground black pepper. Pass extra dressing at the table.
+
 ---
 
 ## Main
