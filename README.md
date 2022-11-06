@@ -9,14 +9,14 @@
 
 If this is your first time cooking from these recipes I would suggest the following menu, feel free to mix it up though: 
 
-* Lemon Basil Roast Chicken
-* Roast Potatoes
-* Cranberry-Avocado Salad with White Balsamic Vinaigrette
-* Chewy Chocolate Chip Cookies
+* [Lemon Basil Roast Chicken](https://github.com/EanNewton/Awesome-Cooking/blob/master/Meat/Lemon%20Basil%20Roast%20Chicken.md)
+* [Roast Potatoes](https://github.com/EanNewton/Awesome-Cooking/blob/master/Vegetables/Roast%20Potatoes.md)
+* [Cranberry-Avocado Salad with White Balsamic Vinaigrette](https://github.com/EanNewton/Awesome-Cooking/blob/master/Vegetables/Salads/Cranberry-Avocado%20Salad%20with%20White%20Balsamic%20Vinaigrette.md)
+* [Chewy Chocolate Chip Cookies](https://github.com/EanNewton/Awesome-Cooking/blob/master/Baking%20%26%20Sweets/Chewy%20Chocolate%20Chip%20Cookies.md)
 
 The above recipes are more or less foolproof, don’t require any unusual ingredients / equipment or techniques, and are general crowd-pleasers for the American palate. Make sure to use the leftover chicken frame to make a broth or soup.
 
-I have tried to include a diverse mix of regions, complexities, techniques, and flavors. Many of these recipes can feed into each other, for example you can make the Lemon Basil Roast Chicken one day, turn it into Whole Chicken Broth overnight, and then make the Coconut and Lemongrass Soup from the leftover meat and broth the next day; or throw the meat into a salad, or perhaps make sandwiches with the Hot Buttered Pretzels. Some of the dishes and their ingredients may sound strange but don’t be afraid to experiment with them, be brave. Likewise, if an ingredient is unavailable, not available in a good quality, or prohibitively expensive then get creative or try a different recipe. 
+I have tried to include a diverse mix of regions, complexities, techniques, and flavors. Many of these recipes can feed into each other, for example you can make the [Lemon Basil Roast Chicken](https://github.com/EanNewton/Awesome-Cooking/blob/master/Meat/Lemon%20Basil%20Roast%20Chicken.md) one day, turn it into [Whole Chicken Broth](https://github.com/EanNewton/Awesome-Cooking/blob/master/Soups/Stocks%2C%20Broths%2C%20and%20Bouquets/Whole%20Chicken%20Broth.md) overnight, and then make the [Coconut and Lemongrass Soup](https://github.com/EanNewton/Awesome-Cooking/blob/master/Soups/Coconut%20%26%20Lemongrass%20Soup.md) from the leftover meat and broth the next day; or throw the meat into a salad, or perhaps make sandwiches with the [Hot Buttered Pretzels](https://github.com/EanNewton/Awesome-Cooking/blob/master/Baking%20%26%20Sweets/Hot%20Buttered%20Pretzels.md). Some of the dishes and their ingredients may sound strange but don’t be afraid to experiment with them, be brave. Likewise, if an ingredient is unavailable, not available in a good quality, or prohibitively expensive then get creative or try a different recipe. 
 
 Always use quality ingredients, work at a comfortable pace, and clean as you go. Everything presented here is aimed at a few goals: connecting people with food and its origin, that being the earth and those who produce goods from it; connecting people with each other, food should be shared and enjoyed, life is short so eat well, eat plenty, and smile more, perhaps with a drink in hand to share a toast; and of course, how does it taste?
 
@@ -35,6 +35,7 @@ If you have any feedback (positive or negative), comments, concerns, pictures of
 * [Citrus](https://github.com/EanNewton/Citrus)
 * [Feast](https://github.com/EanNewton/Feast)
 * [On Vegetables](https://github.com/EanNewton/on-vegetables)
+* [The Cocktail Book](https://github.com/EanNewton/The-Cocktail-Book)
 
 
 # My Favorite Recipes
