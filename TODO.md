@@ -4,7 +4,7 @@
 * replace 1/2 1/4 etc
 * replace --
 * replace *.5 etc
-* replace chile chili
+* replace chile chilli chili
 * add links to readme
 * find appropriate image hosting
 * add xref links
@@ -15,7 +15,8 @@
 # Recipes / books to add
 ## Started
 * the cocktail book
-* feast
+* feast-
+* on vegetables
 
 ## To start
 * the sweet life
@@ -23,6 +24,11 @@
     * choc chip
 * land of plenty
 * discord cooking recipe catalog
+* KAF bible
+* ATK keto
+
+## Finished
+* Citrus
 
 
 # Recipes I'm looking for
