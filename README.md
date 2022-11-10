@@ -1,7 +1,7 @@
 # Awesome Cooking
 
 
-## My favorite recipes and resources.
+## No bullshit recipes.
 
 ---
 

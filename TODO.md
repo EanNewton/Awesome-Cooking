@@ -15,7 +15,7 @@
 # Recipes / books to add
 ## Started
 * the cocktail book
-* feast-
+* feast
 * on vegetables
 
 ## To start
@@ -26,6 +26,7 @@
 * discord cooking recipe catalog
 * KAF bible
 * ATK keto
+* disney
 
 ## Finished
 * Citrus
@@ -48,6 +49,7 @@
 
 # Recipes to test
 
+* 8 treasure duck
 * XO noodles
 * bunker crack slurp noodles
 * sambar
@@ -63,6 +65,8 @@
 * ala thel dala
 * braised leeks
 * Kreatopita
+* Moshambuir Tapaka
+* snowflake chicken
 * bo tai chan
 * meatloaf
 * Chicken with Hot-and-Numbing Sauce / ma la ji pian
