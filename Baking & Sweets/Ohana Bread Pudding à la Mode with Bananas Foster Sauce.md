@@ -1,6 +1,6 @@
 # Ohana Bread Pudding à la Mode with Bananas Foster Sauce
 
-## from Ohaha, Disney's Polynesian Resort
+## from Ohana, Disney's Polynesian Resort
 
 ## Serves 6 to 8
 
