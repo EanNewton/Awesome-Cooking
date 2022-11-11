@@ -34,6 +34,7 @@
 
 # Recipes I'm looking for
 
+* hamburger
 * Pho ga
 * Pho bo
 * aioli
