@@ -4,7 +4,7 @@
 
 ## By Brian Hart Hoffman
 
-Shared under the [United States Copyright Office Compendium chapter 313.4(F)](https://www.copyright.gov/comp3/docs/compendium.pdf) and [Circular 33](https://www.copyright.gov/circs/circ33.pdf). If you found this repo helpful please consider buying Jeremy's book and [buying me a coffee](#buy-me-a-coffee).
+Shared under the [United States Copyright Office Compendium chapter 313.4(F)](https://www.copyright.gov/comp3/docs/compendium.pdf) and [Circular 33](https://www.copyright.gov/circs/circ33.pdf). If you found this repo helpful please consider buying Brian's book and [buying me a coffee](#buy-me-a-coffee).
 
 ---
 
