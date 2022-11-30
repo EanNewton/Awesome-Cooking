@@ -1,3 +1,4 @@
 *.saved.md
 *.bak
 *.tmp
+.pandoc-folder/
